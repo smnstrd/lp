@@ -1,0 +1,13 @@
+<html>
+<head>
+		<style type="text/css" id="operaUserStyle"></style>
+
+<h1> OH HI YOU ARE HERE! Let me tell something about myself ♥</h1>
+	
+<hr>
+
+<center>
+<h2> Hi my name is John Ivan N. Suministrado, I am currently studying Bachelor of Science in Information Techology in PLSP </h2>
+<h2> I love to play Volleyball & Basketball. </h2>
+</head>
+<body>
